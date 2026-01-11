@@ -7,8 +7,8 @@ config.doors = {
     [1] = { coords = vec3(1143.04,-1557.45,35.39), distance = 3.0, text = { true }, trancado = { true }, hash = { -135739026 }, perm = { "ems.permissao" }, },
     [2] = { coords = vec3(1142.11,-1557.41,35.39), distance = 3.0, text = { true }, trancado = { true }, hash = { -135739026 }, perm = { "ems.permissao" }, },
     [3] = { coords = vec3(1134.23,-1558.44,35.39), distance = 3.0, text = { true }, trancado = { true }, hash = { -135739026 }, perm = { "ems.permissao" }, },
-    [4] = { coords = vec3(1083.08, -175.55, 71.71), distance = 3.0, text = { true }, trancado = { true }, hash = { 631614199 }, perm = { "policia.permissao" }, },
-    [5] = { coords = vec3(433.9, -983.26, 30.7), distance = 3.0, text = { true }, trancado = { true }, hash = { 320433149 }, perm = { "policia.permissao" }, },
-    [6] = { coords = vec3(433.89, -980.51, 30.7), distance = 3.0, text = { true }, trancado = { true }, hash = { 320433149 }, perm = { "policia.permissao" }, },
-    [7] = { coords = vec3(1074.88, -170.87, 71.71), distance = 3.0, text = { true }, trancado = { true }, hash = { 631614199 }, perm = { "policia.permissao" }, },
+    [4] = { coords = vec3(1083.08, -175.55, 71.71), distance = 3.0, text = { true }, trancado = { true }, hash = { 631614199 }, perm = { "portas.policia" }, },
+    [5] = { coords = vec3(433.98, -981.89, 30.7), distance = 3.0, text = { true }, trancado = { true }, hash = { 320433149 }, perm = { "portas.policia" }, },
+    [6] = { coords = vec3(450.37, -1000.11, 25.09), distance = 5.0, text = { true }, trancado = { true }, hash = { -1195127879 }, perm = { "portas.policia" }, },
+--     [7] = { coords = vec3(1074.88, -170.87, 71.71), distance = 3.0, text = { true }, trancado = { true }, hash = { 631614199 }, perm = { "portas.policia" }, },
 }
